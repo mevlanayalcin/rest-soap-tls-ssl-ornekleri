@@ -1,5 +1,5 @@
-# rest-soap-tsl-ssl-ornekleri
-Https üzerinden TSL destekli REST-SOAP örnekleri
+# rest-soap-tls-ssl-ornekleri
+Https üzerinden TLS destekli REST-SOAP örnekleri
 
 Spring Boot 2.0 kullanılarak oluşturulmuştur.
 
